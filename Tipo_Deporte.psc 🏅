@@ -10,13 +10,13 @@ Proceso Tipo_Deporte
         2:
             Escribir "Deporte en pareja: Ejemplo - Tenis dobles, Voleibol playa"
         5:
-            Escribir "Deporte de equipo pequeño: Ejemplo - Baloncesto 3x3"
+            Escribir "Deporte de equipo pequeÃ±o: Ejemplo - Baloncesto 3x3"
         6:
             Escribir "Deporte de equipo reducido: Ejemplo - Voleibol"
         7:
-            Escribir "Deporte de equipo intermedio: Ejemplo - Béisbol (algunos formatos)"
+            Escribir "Deporte de equipo intermedio: Ejemplo - BÃ©isbol (algunos formatos)"
         11:
-            Escribir "Deporte de equipo completo: Ejemplo - Fútbol"
+            Escribir "Deporte de equipo completo: Ejemplo - FÃºtbol"
         De Otro Modo:
             Escribir "Cantidad de jugadores no registrada. Intente con otra cantidad."
     FinSegun
